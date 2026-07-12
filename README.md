@@ -39,5 +39,5 @@ Repositorio del código fuente de mi portafolio web, desarrollado para presentar
 ## 📬 Contacto
 
 - GitHub: https://github.com/juanexzedh
-- LinkedIn: *(cuando lo tengas)*
+- LinkedIn: *(cuando lo tenga)*
 - Correo: *juanexzedh@gmail.com*
