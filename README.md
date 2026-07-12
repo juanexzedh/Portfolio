@@ -28,11 +28,7 @@ Repositorio del código fuente de mi portafolio web, desarrollado para presentar
 
 ## 📷 Vista previa
 
-> *(Aquí puedes colocar una captura de pantalla del portafolio.)*
-
-```md
 ![Vista previa](images/preview.png)
-```
 
 ---
 
