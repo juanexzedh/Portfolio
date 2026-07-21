@@ -504,7 +504,6 @@ section {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.2rem;
-  justify-content:center
 }
 
 .proycts-card {
@@ -514,7 +513,7 @@ section {
   padding: 1.5rem 1.5rem;
   display: flex;
   gap: 1.2rem;
-  justify-content: center;
+  align-items: center;
   transition: all 0.2s;
   text-decoration: none;
   color: inherit;
